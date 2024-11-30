@@ -18,12 +18,12 @@ const styles = StyleSheet.create({
         flexDirection:"row",
         backgroundColor: "#fff",
         alignItems: "center",
-
+        justifyContent: "space-between",
         paddingTop: -800,
       },
       input:{
         borderWidth:2,
-        borderColor: "#fff0",
+        borderColor: "#212121",
         width: 100,
         margin:20,
         
